@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ryan/Development/fatec/data_structures/p1ED/main.c
+stdio.h
+-
+math.h
+/home/ryan/Development/fatec/data_structures/p1ED/math.h
+

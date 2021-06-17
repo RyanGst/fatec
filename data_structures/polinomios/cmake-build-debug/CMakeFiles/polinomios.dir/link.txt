@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/polinomios.dir/main.c.o  -o polinomios 

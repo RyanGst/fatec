@@ -1,0 +1,3 @@
+/home/ryan/Development/fatec/data_structures/strings/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ryan/Development/fatec/data_structures/strings/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ryan/Development/fatec/data_structures/strings/cmake-build-debug/CMakeFiles/strings.dir

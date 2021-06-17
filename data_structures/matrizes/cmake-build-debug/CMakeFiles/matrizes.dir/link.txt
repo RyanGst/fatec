@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/matrizes.dir/main.c.o CMakeFiles/matrizes.dir/matriz.c.o  -o matrizes 
