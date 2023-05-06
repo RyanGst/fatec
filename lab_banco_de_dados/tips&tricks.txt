@@ -1,0 +1,17 @@
+# Neste arquivo se apresenta a configuração que deve ser feita no arquivo php.ini
+# (em ambiente Windows) para conseguir acessar o SGBD PostgreSQL.
+
+# Edite o arquivo php.ini localizado no diretório onde se instalou o PHP.
+# Neste arquivo localize a linha ;extension=pgsql
+# RETIRE o SINAL ";" A Linha deve ficar assim: extension=pgsql
+
+# Existe uma outra biblioteca que pode ser acessada se você quiser usar o modo de programação Orientado a Objeto da PHP
+# É a biblioteca pdo_pgsql. Esta bilbioteca pode ser ativada tirando o ";" da linha: ;extension=pdo_pgsql
+# A linha deve ficar assim: extension=pdo_pgsql
+
+# Agora existem três reinicializações que devem (ou podem) ser feitas:
+# Reinicio do navegador (fechar e abrir) seu navegador.
+# Reinicio do Servidor de páginas (seu Apache ou TomCat deve ser reiniciado em um painel de controle do p´rograma).
+# Reinicio do Sistema Operacional (reiniciando assim o Servidor de Páginas e TAMBÉM o interpretador PHP).
+# Em algumas versões do SO Windows, o reset no nível 1 já funciona. Em todos os equipamentos, o terceiro nível funciona.
+

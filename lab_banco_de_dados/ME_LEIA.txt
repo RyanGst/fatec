@@ -1,0 +1,4 @@
+Assim como abordado no arquivo tips&trics, utilizei algumas funções do PDO_PGSQL para os relatórios;
+
+dentro da pasta INFRA existe um arquivo chamado DATABASE.INI, que contém as configurações para o acesso ao banco
+
